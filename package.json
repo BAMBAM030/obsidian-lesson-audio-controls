@@ -1,0 +1,8 @@
+{
+  "name": "lesson-audio-controls",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline Obsidian controls for local language-learning audio",
+  "scripts": {"test": "node --test test/*.test.cjs", "check": "node --check main.js"},
+  "devDependencies": {"jsdom": "29.1.1"}
+}

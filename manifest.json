@@ -1,0 +1,9 @@
+{
+  "id": "lesson-audio-controls",
+  "name": "Lern-Audio-Steuerung",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Tempo- und Wiederholungssteuerung für lokale Sprachlern-Audios.",
+  "author": "Hermes Agent",
+  "isDesktopOnly": false
+}
